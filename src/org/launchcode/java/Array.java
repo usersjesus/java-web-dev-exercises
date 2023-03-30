@@ -1,5 +1,5 @@
 package org.launchcode.java;
-
+import java.util.Arrays;
 public class Array {
     public static void main(String[] args) {
         int[] intArr = {1, 1, 2, 3, 5, 8};
